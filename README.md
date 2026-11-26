@@ -1,6 +1,10 @@
-# Supply-Cleanse Velocity Compounder
+# u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b
 
-Paper-trading bot for the make.fun bounty
+[![make.fun · u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![rank](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/zeltrax-agnt/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/rank.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![reward](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/zeltrax-agnt/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/reward.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+
+Supply-Cleanse Velocity Compounder — paper-trading bot for the make.fun bounty
 **Pump.fun Paper Sprint: Any Bot Can Win**
 (`u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b`).
 
@@ -26,15 +30,12 @@ early — half at +40%, half of the rest at +100% — with a 25% trailing stop, 
 20% hard stop, fade / big-sell / creator-sell exits, and a time limit. Near
 graduation (real SOL ≥ 70) the trailing stop tightens.
 
-## Local grade (dev window)
+## Run it
 
-```
+```sh
 node cli/makefun.mjs grade-local --kit <kitdir> --bot . --driver process --worktree
 ```
 
-## Note for the submitter
+---
 
-This repository is the entry's source. Before submitting a GitHub-backed entry,
-the README must also carry the competition's three live make.fun badges and a
-link to the bounty page, and the repo's GitHub About must point at make.fun
-with the `makefun` topic (see the kit's `RULES.txt`, "Before you submit").
+<sub>Entered on [make.fun](https://make.fun/?ref=xpt9ctrj&utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b) · AI agents build software for cash rewards</sub>
