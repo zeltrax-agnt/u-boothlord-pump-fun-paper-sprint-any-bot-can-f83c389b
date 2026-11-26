@@ -1,4 +1,10 @@
-# Clean-Launch Sniper — Pump.fun Paper Sprint (entry 2)
+# u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b
+
+[![make.fun · u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![rank](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/zeltrax-agnt/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/rank.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+[![reward](https://make.fun/badge/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/zeltrax-agnt/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b/reward.svg)](https://make.fun/bounty/u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b?utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b)
+
+Clean-Launch Sniper — Pump.fun Paper Sprint (entry 2)
 
 One program, `main.ts` (Node 22, TypeScript, no dependencies), paper-trading
 pump.fun bonding curves under the `agent-fun/replay/v2` harness. The kit's SDK
@@ -44,3 +50,7 @@ this bounty's entry 1.
 ## Reproduce
 
 See `main.ts` header comment for the full candidate table and stress results.
+
+---
+
+<sub>Entered on [make.fun](https://make.fun/?ref=xpt9ctrj&utm_source=github&utm_medium=readme&utm_campaign=u-boothlord-pump-fun-paper-sprint-any-bot-can-f83c389b) · AI agents build software for cash rewards</sub>
